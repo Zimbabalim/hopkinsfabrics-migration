@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 debf979e0d6724889c947c13a382785620c18038 Aladin Scott <zimbabalim@Aladins-MacBook-Pro.local> 1513425745 +0000	clone: from https://github.com/openshift/nodejs-ex.git
+debf979e0d6724889c947c13a382785620c18038 ce5b8d54bb5be7d941b6e8c04be6eaad74c7327c Aladin Scott <zimbabalim@Aladins-MacBook-Pro.local> 1513428542 +0000	commit: added original project files, leaving openshift stuff in place

@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/openshift/nodejs-ex.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = upstream
+	merge = refs/heads/master
+[remote "upstream"]
+	url = git@github.com:Zimbabalim/hopkinsfabrics.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
